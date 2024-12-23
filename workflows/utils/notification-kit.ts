@@ -71,7 +71,8 @@ export class NotificationKit {
 </style>
 <section>
   <header class="jj-header">
-    <img src="cid:logo.svg" width="120" height="24" alt="稀土掘金" />
+<!--    <img src="cid:logo.svg" width="120" height="24" alt="稀土掘金" type="image/svg" />-->
+    <img src="https://gitee.com/xige2021/img/raw/master/static/202412231802212.svg" width="120" height="24" alt="稀土掘金" type="image/svg" />
   </header>
   ${
     this.newVersion.has
